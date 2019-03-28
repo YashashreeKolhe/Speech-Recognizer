@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/dell/.android/build-cache/47c49f5cff1004a1f2d6a9ac25083e7c46d647df/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-bb2dd48c4cdd6fbfca8cf841a44847219f79de93.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/5b4f9b9c8f5477dab5959bcf11c9bf9e23059815/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-928f0f8c01a62fe5c096730eb0df26dfa9f46a71.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/8871663b8749f97c2711ac919d0810328504c0ea/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-a5e45eb688754e715e43cd4fd30b805947226016.jar" />
+    </item>
+    <item
+        jar="/home/dell/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.3.0/dd84903d2e1af25a6081ef9038ad863cb14ca3a0/support-annotations-25.3.0.jar"
+        revision="25.0.3"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/support-annotations-25.3.0-77b0d4aa1b32ff40cedca4c0858eb30913779db8.jar" />
+    </item>
+    <item
+        jar="/home/dell/Android/Sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/org.apache.http.legacy-349dd43d5108f98e2c7c0e23ed79d6c588065624.jar" />
+    </item>
+    <item
+        jar="/home/dell/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/2586312cd2b8a511e4c6236736f5a039fc0f2273/rxjava-1.1.6.jar"
+        revision="25.0.3"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/rxjava-1.1.6-291c38e945354fb4e893a89a02e274cfb5559cd4.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/d3653bed061eeead3915909055db76dd3ac23663/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="b43cbd5115bd64d3446584fa0da60fca063914c5">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-63bb8e4abb72cba4e5a635dfefc184b67e217396.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/45471485de5e45785ee7ecb013212c7eeb443e24/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-619d405598967ff8ef4328ae512c14f0adccfec2.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/216106c72ed6b8d9a560a00d31780974479c0e2e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-0ea1d03cea67b4c4cd75daf8b12fe4a6033650d4.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/086143601b4f52fed349c031ff52b5ee6c18d14e/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-902d8d559371b6c2fcc68e0d89e4d3b60beb5a6e.jar" />
+    </item>
+    <item
+        jar="/home/dell/Android/Sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackRuntimeLibraries/release/jars/8000/40/android-61ff95518a2eafb3da8a7809578191340b386af4.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/455eebad9a40e990f02a4017833b582ce7ee1acf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-15648d1c8e791da323911bbf4ed56bcc5e5ea5ed.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/31bc251fd76c9ef6eeddbc00b68ea852330cf40b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="09adf6e61abc0fe3b2cb5b1795a7033572475fad">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-70d623336c4b65fbe5d247d2e86ae800309224c9.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/9e05e41289e93975b0d3dd83513eba7beec579dd/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="50fd38504119ea609c269abf98af75fb14e82f2c">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-d4f508250930d9448a84e7bf1effbda737b2daa6.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/363e8f4ebadbcf898b91085e39ffd9ab58433f10/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-40f52ffcf1042fad8f595e91f75cd6c475539b7e.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/111def9c68f27d9681b092f889a72084c82afb68/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-00a3f6c20029df79108a4b172df7a768e99ac86b.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/81c21a99eae64a8a0b6fc35d701094aa9ff64acb/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-b9556c0df8322af95c66f8952b46e862641910ad.jar" />
+    </item>
+    <item
+        jar="/home/dell/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/constraint-layout-solver-1.0.2-1477913b971eb35684326dd7cd330793bf40ad62.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/fc3f393fe74a3ae8cc15c8d91d85e66f5cbe932a/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-7128943662da512c690abd157ddbada092fecc1a.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/0c2d692bb8b37a2599113be56e46c8874ecb0423/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-94fb7df3477cf7a685a80109b382c335b86605f7.jar" />
+    </item>
+    <item
+        jar="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/speech/build/intermediates/bundles/default/classes.jar"
+        revision="25.0.3"
+        sha1="0756dc329629cdecfca294a5152bb30ff6c4e7d8">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-c655f37fe5c5777f41c743d6203da5884beb1b53.jar" />
+    </item>
+    <item
+        jar="/home/dell/.android/build-cache/074841c132c8595ab5ac6667908345def15d4ca7/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="/home/dell/BTechProject_2018-19-master/Speech-Recognizer/app/build/intermediates/transforms/preJackPackagedLibraries/release/jars/8000/1f/classes-f7d9cc2ba723b141f48b1663f660fc2f004277dc.jar" />
+    </item>
+
+</items>
